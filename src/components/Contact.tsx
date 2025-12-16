@@ -90,14 +90,14 @@ const Contact = () => {
     {
       icon: Github,
       name: 'GitHub',
-      url: 'https://github.com/sahilghosh123',
+      url: 'https://github.com/SahilGhosh12345',
       color: 'hover:text-slate-900 dark:hover:text-white cosmic:hover:text-purple-300',
       bg: 'hover:bg-slate-100 dark:hover:bg-slate-700 cosmic:hover:bg-purple-800'
     },
     {
       icon: Linkedin,
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/sahilghosh12345',
+      url: 'https://linkedin.com/in/sahilghosh123',
       color: 'hover:text-blue-600',
       bg: 'hover:bg-blue-50 dark:hover:bg-blue-900/20 cosmic:hover:bg-blue-900/30'
     },

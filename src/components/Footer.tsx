@@ -11,12 +11,12 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      url: 'https://github.com/sahilghosh123',
+      url: 'https://github.com/SahilGhosh12345',
       label: 'GitHub'
     },
     {
       icon: Linkedin,
-      url: 'https://linkedin.com/in/sahilghosh12345',
+      url: 'https://linkedin.com/in/sahilghosh123',
       label: 'LinkedIn'
     },
     {
@@ -94,7 +94,6 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Get In Touch</h3>
             <div className="space-y-2 text-gray-300">
               <p>Durgapur, West Bengal</p>
-              <p>+91-7908439735</p>
               <p>sahilghosh90870@gmail.com</p>
             </div>
             <button

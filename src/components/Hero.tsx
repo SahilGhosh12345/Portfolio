@@ -235,13 +235,13 @@ const Hero = () => {
             {[
               {
                 Icon: Github,
-                href: "https://github.com/sahilghosh123",
+                href: "https://github.com/SahilGhosh12345",
                 color:
                   "hover:text-slate-900 dark:hover:text-white cosmic:hover:text-purple-300",
               },
               {
                 Icon: Linkedin,
-                href: "https://linkedin.com/in/sahilghosh12345",
+                href: "https://linkedin.com/in/sahilghosh123",
                 color: "hover:text-blue-500",
               },
               {
